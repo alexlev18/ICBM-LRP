@@ -1,0 +1,7 @@
+ICBM MOD "Empty Mod"
+
+Version "0"
+
+Description "Empty Mod"
+
+ChangeLog "None"
