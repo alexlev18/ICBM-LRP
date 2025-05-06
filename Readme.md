@@ -79,3 +79,8 @@ Excludes:
 Imagine: Civilian airliners 100km from Moscow covertly deploying special forces to construct clandestine landing zones; Argentine hypersonic SSM obliterating British carriers approaching the Falklands, triggering the Second Falklands War; Three Type-076 LHA executing a tri-service amphibious assault in the Taiwan Strait – all playable through this mod.
 
 This mod delivers an authentic modern conventional warfare experience for ICBM: Escalation players, combining technical innovation and strategic depth to redefine tactical possibilities for traditional warfare enthusiasts.
+
+
+
+
+  ***Translate by DS-Translate
