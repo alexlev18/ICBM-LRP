@@ -33,6 +33,7 @@ Whether you wish to contribute 3D models, file editing, AI rewriting, or just sh
 ### Developers and Contributors
 Developers：
 * Bzand
+
 Contributors：
 * None
 
@@ -73,6 +74,7 @@ Contributors：
 ### 开发者及贡献者
 开发者：
 * Bzand
+
 贡献者：
-无
+* 无
 
