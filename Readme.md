@@ -70,6 +70,7 @@ Core Features:
 
 Extended Development Goals:
   Technical integration with the JTO Project Group
+  
   New game development using identical frameworks (probability: 0.0000001%)
 
 Excludes:
