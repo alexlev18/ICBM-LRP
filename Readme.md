@@ -76,6 +76,6 @@ Extended Development Goals:
 Excludes:
   Any sci-fi technologies/weapon systems unavailable before 2060
 
-Imagine: Civilian airliners 100km from Moscow covertly deploying special forces to construct clandestine landing zones; Argentine hypersonic anti-ship missiles obliterating British carriers approaching the Falklands, triggering the Second Falklands War; Three Type-076 amphibious assault ships executing a tri-service amphibious assault in the Taiwan Strait – all playable through this mod.
+Imagine: Civilian airliners 100km from Moscow covertly deploying special forces to construct clandestine landing zones; Argentine hypersonic SSM obliterating British carriers approaching the Falklands, triggering the Second Falklands War; Three Type-076 LHA executing a tri-service amphibious assault in the Taiwan Strait – all playable through this mod.
 
 This mod delivers an authentic modern conventional warfare experience for ICBM: Escalation players, combining technical innovation and strategic depth to redefine tactical possibilities for traditional warfare enthusiasts.
