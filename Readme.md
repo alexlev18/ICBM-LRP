@@ -30,6 +30,12 @@ Whether you wish to contribute 3D models, file editing, AI rewriting, or just sh
 * Take responsibility for your own branch. No malicious uploads.  
 * All contributions to the Master branch will undergo peer review. Approved changes will be merged immediately.
 
+### Developers and Contributors
+Developers：
+* Bzand
+Contributors：
+* None
+
 ---
 
 ## ICBM: Escalation 大型重置计划
@@ -59,7 +65,14 @@ Whether you wish to contribute 3D models, file editing, AI rewriting, or just sh
 我们希望通过这个模组，通过重写游戏结构与内容创新，为偏好传统战争模式的玩家一个全新的选择。
 
 ### 如果你想加入项目？
-无论你想为这个项目贡献什么——3D模型、文件编辑、AI重写，又或者只是一个想法，请加入QQ群1035959124并联系群主或加入 Discord *https://discord.gg/qrNGZ79W6K*。
+无论你想为这个项目贡献什么——3D模型、文件编辑、AI重写，又或者只是一个想法，请加入QQ群1035959124并联系群主，或加入 Discord https://discord.gg/qrNGZ79W6K
 
 ### 但你必须遵守！
-对自己的Branch负责任，不恶意上传。最终向Master合并之前会有其他的贡献者对其进行审查，一旦通过，它马上就会出现在Master中。
+对自己的Branch负责任，不恶意上传。你的Branch最终向Master合并之前将会有其他的贡献者对其进行审查，一旦通过，它马上就会出现在Master中。
+
+### 开发者及贡献者
+开发者：
+* Bzand
+贡献者：
+无
+
