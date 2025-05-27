@@ -12,7 +12,7 @@ This project is a comprehensive remake of *ICBM: Escalation*, aiming to overhaul
 * **New army system**: Independent unit types with forces organized at brigade/battalion/company levels to optimize air/sea transport logistics.
 * **New air force system**: Functionally classified airfields; retained traditional, supersonic, and stealth bomber categories; distinct light/heavy fighter classifications.
 * **Non-military unit system**: Civilian transports (airliners/cargo ships) remain undetectable before DEFCON3 and can covertly deploy light combat units.
-* High-quality music and visually comfortable fonts.
+* High-quality BGM.
 * And more...
 ### Potential Features:
 * Integration with the **JTO Project Group** to incorporate its production logic.
@@ -29,7 +29,7 @@ Beijing deploys three Type 076 LHAs toward the Taiwan Strait, poised for a coord
 All these modern warfare scenarios will become possible in this mod!
 Through structural rewriting and content innovation, we aim to provide players who prefer traditional warfare modes with a brand new choice.
 ### Want to Join the Project?  
-Whether you wish to contribute 3D models, file editing, AI rewriting, or just share an idea, join Discord *https://discord.gg/qrNGZ79W6K* .
+Whether you wish to contribute 3D models, file editing, AI rewriting, or just share an idea, join Discord *https://discord.gg/qrNGZ79W6K* 
 
 ### You MUST Comply With:  
 * Take responsibility for your own branch. No malicious uploads.  
@@ -55,13 +55,13 @@ Contributors：
 * **新的陆军体系**：独立兵种单位设计，并且将部队规模细分至旅/营/连级建制以优化空运和海运合理性等。
 * **新的空军体系**：机场将依据职能进行分类；保留传统、超音速和隐身轰炸机三种独立单位，并区分轻重型战斗机等。
 * **非军事单位系统**：提供民航客机和货轮等民用载具，它们在 *DEFCON 3* 前不会被发现，并可秘密运输轻型作战单位。
-* 好听的音乐和顺眼的字体。
+* 好听的音乐和顺眼的中文字体。
 * 还有更多...
 
 ### 项目可能（或愿意）实现的功能：
 * 与*JTO*项目组合并，将其生产逻辑带入本计划。
 * 一系列围绕本世纪热点地区的战役任务，而且它们不局限于大型战争！
-* 开发相同逻辑的新款游戏（玩笑）
+* 开发相同逻辑的新款游戏（）
 
 ### 项目明确不实现的功能：
 * 添加本世纪60年代前不可能实现的科技或武器
@@ -83,3 +83,4 @@ Contributors：
 贡献者：
 * 无
 
+### Change date(YMD): 2025/05/28
