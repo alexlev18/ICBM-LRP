@@ -1,5 +1,5 @@
-#Before you read - This project has not yet started, and is expected to officially start in middle Oct 2025.
-#在阅读之前请注意，这个项目目前仍未开工，预计2025年10月中旬正式开始。
+### Before you read - This project has not yet started, and is expected to officially start in middle Oct 2025.
+### 在阅读之前请注意，这个项目目前仍未开工，预计2025年10月中旬正式开始。
 
 ---
 
