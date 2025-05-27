@@ -1,3 +1,8 @@
+#Before you read - This project has not yet started, and is expected to officially start in middle Oct 2025.
+#在阅读之前请注意，这个项目目前仍未开工，预计2025年10月中旬正式开始。
+
+---
+
 ## ICBM: Escalation LRP (Large Reowrk Project)
 This project is a comprehensive remake of *ICBM: Escalation*, aiming to overhaul most of the game's content with a focus on modern warfare from the 1970s to the 2030s.
 ### Confirmed Features in Development:
@@ -53,7 +58,7 @@ Contributors：
 * 好听的音乐和顺眼的字体。
 * 还有更多...
 
-### 项目可能实现的功能：
+### 项目可能（或愿意）实现的功能：
 * 与*JTO*项目组合并，将其生产逻辑带入本计划。
 * 一系列围绕本世纪热点地区的战役任务，而且它们不局限于大型战争！
 * 开发相同逻辑的新款游戏（玩笑）
