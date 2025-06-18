@@ -17,6 +17,7 @@ This project is a comprehensive remake of *ICBM: Escalation*, aiming to overhaul
 ### Potential Features:
 * Integration with the **JTO Project Group** to incorporate its production logic.
 * Campaign missions centered around 21st-century hotspots, not limited to large-scale wars!
+* Added texture files for all units so similar 3Dmodels can be distinguished.
 * New games sharing the same logic (just kidding).
 ### Explicitly Excluded Features:
 * Technologies or weapons that were impossible before the 1960s in this century.
@@ -61,12 +62,13 @@ Contributors：
 ### 项目可能（或愿意）实现的功能：
 * 与*JTO*项目组合并，将其生产逻辑带入本计划。
 * 一系列围绕本世纪热点地区的战役任务，而且它们不局限于大型战争！
+* 为所有单位添加贴图文件，相似的模型将能够被区分开来。
 * 开发相同逻辑的新款游戏（）
 
 ### 项目明确不实现的功能：
 * 添加本世纪60年代前不可能实现的科技或武器
 
-想象一下：在莫斯科100公里外，数架民航客机正悄然投放特种部队，秘密建设可供大部队空降的起降场；阿根廷本土部署的超音速反舰导弹精准摧毁进犯马岛的英军航母，开启第二次马岛战争序幕；而北京正向台湾海峡派遣三艘076级登陆舰，即将发生一场陆海空军高度配合的登陆战。这些所有的现代战争景象都将在本模组中成为可能！
+想象一下：在莫斯科100公里外，数架民航客机正悄然投放特种部队，秘密建设可供大部队空降的起降场；阿根廷本土部署的超音速反舰导弹精准摧毁进犯马岛的英军航母，开启第二次马岛战争序幕；远东地区集结了数十个装甲师，俄罗斯准备对中国！
 
 我们希望通过这个模组，通过重写游戏结构与内容创新，为偏好传统战争模式的玩家一个全新的选择。
 
