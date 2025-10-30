@@ -1,0 +1,15 @@
+[UNIT] "{name}"
+DisplayName "{name}"
+Category "{unit_type}"
+HitPoints {hit_points}
+Armor {armor}
+Damage {damage}
+Speed {speed}
+Range {range}
+DetectionRange {detection_range}
+BuildTime {build_time}
+Cost {cost}
+Description "{description}"
+Abilities "{abilities}"
+{custom_stats}
+[END]
